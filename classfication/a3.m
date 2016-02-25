@@ -1,3 +1,4 @@
+%k-nn
 clear
 load mnist_mat.mat
 d=20;
