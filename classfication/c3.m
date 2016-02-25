@@ -1,3 +1,4 @@
+%multiclass logistic regression classiﬁer
 clear
 load mnist_mat
 attach=ones(5000,1);
