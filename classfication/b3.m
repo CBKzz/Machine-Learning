@@ -1,3 +1,4 @@
+%Bayes classifier
 clear
 load('mnist_mat.mat')
 d=20;
