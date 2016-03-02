@@ -1,4 +1,6 @@
 %Bayes classifier
+%the accuracy is 93.60%
+%the key point of this probelm is how to estimate the mean and covariance for a class j
 clear
 load('mnist_mat.mat')
 d=20;
