@@ -1,4 +1,5 @@
 %multiclass logistic regression classiﬁer
+%This one is difficult to handle. The log likelyhood function didn't converge until I modified the stepsize. And the accuracy is 87%
 clear
 load mnist_mat
 attach=ones(5000,1);
