@@ -1,4 +1,12 @@
 %k-nn
+%k-nn is easy but always have a good performance. Here are some prediction accuracy for different k values
+
+%%   k=1   0.9480
+%%   k=2   0.9280
+%%   k=3   0.9420
+%%   k=4   0.9380
+%%   k=5   0.9500
+   
 clear
 load mnist_mat.mat
 d=20;
